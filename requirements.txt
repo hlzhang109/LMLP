@@ -1,0 +1,6 @@
+numpy==1.19.5
+transformers==4.10.0
+sentence-transformers==2.0.0
+torch==1.13.1
+openai==0.8.0
+jupyter==1.0.0

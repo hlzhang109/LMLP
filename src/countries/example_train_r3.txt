@@ -1,0 +1,398 @@
+palau locatedIn oceania, palau locatedIn micronesia, micronesia locatedIn oceania
+maldives locatedIn asia, maldives locatedIn southern_asia, southern_asia locatedIn asia
+brunei locatedIn asia, brunei locatedIn south-eastern_asia, south-eastern_asia locatedIn asia
+japan locatedIn asia, japan locatedIn eastern_asia, eastern_asia locatedIn asia
+netherlands neighborOf germany, netherlands neighborOf belgium, belgium neighborOf germany
+turkey neighborOf bulgaria, turkey neighborOf greece, greece neighborOf bulgaria
+angola neighborOf zambia, angola neighborOf namibia, namibia neighborOf south_africa, south_africa neighborOf swaziland, swaziland neighborOf mozambique, mozambique neighborOf zambia
+angola neighborOf republic_of_the_congo, angola neighborOf dr_congo, dr_congo neighborOf republic_of_the_congo
+armenia neighborOf azerbaijan, armenia neighborOf turkey, turkey neighborOf azerbaijan
+armenia neighborOf iran, armenia neighborOf turkey, turkey neighborOf iran
+armenia neighborOf turkey, armenia neighborOf azerbaijan, azerbaijan neighborOf turkey
+antigua_and_barbuda locatedIn americas, antigua_and_barbuda locatedIn caribbean, caribbean locatedIn americas
+swaziland neighborOf mozambique, swaziland neighborOf south_africa, south_africa neighborOf namibia, namibia neighborOf zambia, zambia neighborOf mozambique
+wallis_and_futuna locatedIn oceania, wallis_and_futuna locatedIn polynesia, polynesia locatedIn oceania
+uruguay locatedIn americas, uruguay locatedIn south_america, south_america locatedIn americas
+uruguay neighborOf argentina, uruguay neighborOf brazil, brazil neighborOf argentina
+uruguay neighborOf brazil, uruguay neighborOf argentina, argentina neighborOf brazil
+zambia neighborOf botswana, zambia neighborOf namibia, namibia neighborOf botswana
+zambia neighborOf zimbabwe, zambia neighborOf mozambique, mozambique neighborOf swaziland, swaziland neighborOf south_africa, south_africa neighborOf namibia, namibia neighborOf botswana, botswana neighborOf zimbabwe
+zambia neighborOf namibia, zambia neighborOf mozambique, mozambique neighborOf south_africa, south_africa neighborOf namibia
+zambia neighborOf malawi, zambia neighborOf mozambique, mozambique neighborOf malawi
+cyprus locatedIn europe, cyprus locatedIn eastern_europe, eastern_europe locatedIn europe
+ireland locatedIn europe, ireland locatedIn northern_europe, northern_europe locatedIn europe
+burundi neighborOf dr_congo, burundi neighborOf tanzania, tanzania neighborOf dr_congo
+burundi neighborOf rwanda, burundi neighborOf tanzania, tanzania neighborOf rwanda
+burundi neighborOf tanzania, burundi neighborOf rwanda, rwanda neighborOf tanzania
+central_african_republic locatedIn middle_africa, central_african_republic neighborOf chad, chad locatedIn middle_africa
+tonga locatedIn oceania, tonga locatedIn polynesia, polynesia locatedIn oceania
+ivory_coast locatedIn western_africa, ivory_coast neighborOf liberia, liberia locatedIn western_africa
+sierra_leone neighborOf liberia, sierra_leone neighborOf guinea, guinea neighborOf liberia
+sierra_leone neighborOf guinea, sierra_leone neighborOf liberia, liberia neighborOf guinea
+mayotte locatedIn africa, mayotte locatedIn eastern_africa, eastern_africa locatedIn africa
+poland neighborOf ukraine, poland neighborOf russia, russia neighborOf estonia, estonia neighborOf latvia, latvia neighborOf lithuania, lithuania neighborOf belarus, belarus neighborOf ukraine
+poland neighborOf slovakia, poland neighborOf czechia, czechia neighborOf slovakia
+poland neighborOf belarus, poland neighborOf russia, russia neighborOf belarus
+poland neighborOf russia, poland neighborOf ukraine, ukraine neighborOf russia
+poland neighborOf czechia, poland neighborOf slovakia, slovakia neighborOf czechia
+kazakhstan neighborOf turkmenistan, kazakhstan neighborOf uzbekistan, uzbekistan neighborOf turkmenistan
+kazakhstan neighborOf china, kazakhstan neighborOf uzbekistan, uzbekistan neighborOf afghanistan, afghanistan neighborOf china
+kazakhstan neighborOf kyrgyzstan, kazakhstan neighborOf uzbekistan, uzbekistan neighborOf kyrgyzstan
+uzbekistan neighborOf afghanistan, uzbekistan neighborOf tajikistan, tajikistan neighborOf afghanistan
+uzbekistan neighborOf turkmenistan, uzbekistan neighborOf afghanistan, afghanistan neighborOf turkmenistan
+uzbekistan neighborOf kazakhstan, uzbekistan neighborOf kyrgyzstan, kyrgyzstan neighborOf kazakhstan
+uzbekistan neighborOf kyrgyzstan, uzbekistan neighborOf kazakhstan, kazakhstan neighborOf kyrgyzstan
+turks_and_caicos_islands locatedIn americas, turks_and_caicos_islands locatedIn caribbean, caribbean locatedIn americas
+new_caledonia locatedIn oceania, new_caledonia locatedIn melanesia, melanesia locatedIn oceania
+pakistan neighborOf china, pakistan neighborOf afghanistan, afghanistan neighborOf china
+pakistan neighborOf afghanistan, pakistan neighborOf china, china neighborOf afghanistan
+pakistan neighborOf india, pakistan neighborOf afghanistan, afghanistan neighborOf tajikistan, tajikistan neighborOf china, china neighborOf india
+argentina neighborOf bolivia, argentina neighborOf uruguay, uruguay neighborOf brazil, brazil neighborOf colombia, colombia neighborOf peru, peru neighborOf chile, chile neighborOf bolivia
+cuba locatedIn americas, cuba locatedIn caribbean, caribbean locatedIn americas
+serbia neighborOf bosnia_and_herzegovina, serbia neighborOf kosovo, kosovo neighborOf macedonia, macedonia neighborOf greece, greece neighborOf albania, albania neighborOf montenegro, montenegro neighborOf croatia, croatia neighborOf bosnia_and_herzegovina
+czechia neighborOf poland, czechia neighborOf slovakia, slovakia neighborOf ukraine, ukraine neighborOf poland
+czechia neighborOf slovakia, czechia neighborOf poland, poland neighborOf slovakia
+vietnam locatedIn asia, vietnam locatedIn south-eastern_asia, south-eastern_asia locatedIn asia
+vietnam neighborOf china, vietnam neighborOf laos, laos neighborOf china
+niue locatedIn oceania, niue locatedIn polynesia, polynesia locatedIn oceania
+mozambique neighborOf tanzania, mozambique neighborOf zambia, zambia neighborOf tanzania
+mozambique neighborOf zambia, mozambique neighborOf swaziland, swaziland neighborOf south_africa, south_africa neighborOf namibia, namibia neighborOf botswana, botswana neighborOf zambia
+mozambique neighborOf malawi, mozambique neighborOf zambia, zambia neighborOf malawi
+aruba locatedIn americas, aruba locatedIn caribbean, caribbean locatedIn americas
+bolivia neighborOf chile, bolivia neighborOf peru, peru neighborOf chile
+bolivia neighborOf brazil, bolivia neighborOf chile, chile neighborOf peru, peru neighborOf brazil
+bolivia neighborOf argentina, bolivia neighborOf brazil, brazil neighborOf colombia, colombia neighborOf ecuador, ecuador neighborOf peru, peru neighborOf chile, chile neighborOf argentina
+bolivia neighborOf peru, bolivia neighborOf argentina, argentina neighborOf brazil, brazil neighborOf colombia, colombia neighborOf peru
+fiji locatedIn oceania, fiji locatedIn melanesia, melanesia locatedIn oceania
+republic_of_the_congo neighborOf gabon, republic_of_the_congo neighborOf dr_congo, dr_congo neighborOf central_african_republic, central_african_republic neighborOf chad, chad neighborOf cameroon, cameroon neighborOf gabon
+republic_of_the_congo neighborOf cameroon, republic_of_the_congo neighborOf central_african_republic, central_african_republic neighborOf cameroon
+republic_of_the_congo neighborOf central_african_republic, republic_of_the_congo neighborOf gabon, gabon neighborOf cameroon, cameroon neighborOf central_african_republic
+saudi_arabia neighborOf united_arab_emirates, saudi_arabia neighborOf oman, oman neighborOf united_arab_emirates
+saudi_arabia neighborOf yemen, saudi_arabia neighborOf united_arab_emirates, united_arab_emirates neighborOf oman, oman neighborOf yemen
+saudi_arabia neighborOf oman, saudi_arabia neighborOf united_arab_emirates, united_arab_emirates neighborOf oman
+el_salvador neighborOf guatemala, el_salvador neighborOf honduras, honduras neighborOf guatemala
+madagascar locatedIn africa, madagascar locatedIn eastern_africa, eastern_africa locatedIn africa
+australia locatedIn oceania, australia locatedIn australia_and_new_zealand, australia_and_new_zealand locatedIn oceania
+namibia locatedIn africa, namibia locatedIn southern_africa, southern_africa locatedIn africa
+namibia neighborOf zambia, namibia neighborOf botswana, botswana neighborOf south_africa, south_africa neighborOf swaziland, swaziland neighborOf mozambique, mozambique neighborOf zambia
+namibia neighborOf south_africa, namibia neighborOf botswana, botswana neighborOf south_africa
+namibia neighborOf botswana, namibia neighborOf zambia, zambia neighborOf botswana
+tuvalu locatedIn oceania, tuvalu locatedIn polynesia, polynesia locatedIn oceania
+svalbard_and_jan_mayen locatedIn europe, svalbard_and_jan_mayen locatedIn northern_europe, northern_europe locatedIn europe
+isle_of_man locatedIn europe, isle_of_man locatedIn northern_europe, northern_europe locatedIn europe
+guyana neighborOf brazil, guyana neighborOf venezuela, venezuela neighborOf brazil
+vatican_city locatedIn europe, vatican_city locatedIn southern_europe, southern_europe locatedIn europe
+british_indian_ocean_territory locatedIn africa, british_indian_ocean_territory locatedIn eastern_africa, eastern_africa locatedIn africa
+nigeria locatedIn africa, nigeria neighborOf niger, niger neighborOf chad, chad neighborOf central_african_republic, central_african_republic neighborOf republic_of_the_congo, republic_of_the_congo neighborOf cameroon, cameroon neighborOf gabon, gabon neighborOf equatorial_guinea, equatorial_guinea locatedIn middle_africa, middle_africa locatedIn africa
+nigeria neighborOf chad, nigeria neighborOf niger, niger neighborOf chad
+nigeria neighborOf niger, nigeria neighborOf chad, chad neighborOf niger
+nigeria neighborOf cameroon, nigeria neighborOf chad, chad neighborOf cameroon
+germany neighborOf austria, germany neighborOf switzerland, switzerland neighborOf austria
+burkina_faso neighborOf benin, burkina_faso neighborOf togo, togo neighborOf benin
+burkina_faso neighborOf niger, burkina_faso neighborOf togo, togo neighborOf benin, benin neighborOf niger
+tanzania neighborOf uganda, tanzania neighborOf rwanda, rwanda neighborOf uganda
+tanzania neighborOf dr_congo, tanzania neighborOf uganda, uganda neighborOf dr_congo
+tanzania neighborOf kenya, tanzania neighborOf uganda, uganda neighborOf kenya
+tanzania neighborOf rwanda, tanzania neighborOf uganda, uganda neighborOf rwanda
+tanzania neighborOf zambia, tanzania neighborOf mozambique, mozambique neighborOf zambia
+tanzania neighborOf malawi, tanzania neighborOf zambia, zambia neighborOf malawi
+northern_mariana_islands locatedIn oceania, northern_mariana_islands locatedIn micronesia, micronesia locatedIn oceania
+belize neighborOf mexico, belize neighborOf guatemala, guatemala neighborOf mexico
+norway neighborOf finland, norway neighborOf sweden, sweden neighborOf finland
+norway neighborOf russia, norway neighborOf sweden, sweden neighborOf finland, finland neighborOf russia
+cocos_keeling_islands locatedIn oceania, cocos_keeling_islands locatedIn australia_and_new_zealand, australia_and_new_zealand locatedIn oceania
+laos neighborOf china, laos neighborOf vietnam, vietnam neighborOf china
+laos neighborOf myanmar, laos neighborOf china, china neighborOf myanmar
+suriname neighborOf brazil, suriname neighborOf french_guiana, french_guiana neighborOf brazil
+suriname neighborOf french_guiana, suriname neighborOf guyana, guyana neighborOf brazil, brazil neighborOf french_guiana
+christmas_island locatedIn oceania, christmas_island locatedIn australia_and_new_zealand, australia_and_new_zealand locatedIn oceania
+são_tomé_and_príncipe locatedIn africa, são_tomé_and_príncipe locatedIn middle_africa, middle_africa locatedIn africa
+bulgaria neighborOf macedonia, bulgaria neighborOf serbia, serbia neighborOf macedonia
+bulgaria neighborOf turkey, bulgaria neighborOf greece, greece neighborOf turkey
+bulgaria neighborOf greece, bulgaria neighborOf macedonia, macedonia neighborOf greece
+guinea neighborOf sierra_leone, guinea neighborOf liberia, liberia neighborOf sierra_leone
+guinea neighborOf mali, guinea neighborOf sierra_leone, sierra_leone neighborOf liberia, liberia neighborOf ivory_coast, ivory_coast neighborOf mali
+guinea neighborOf liberia, guinea neighborOf sierra_leone, sierra_leone neighborOf liberia
+spain neighborOf france, spain neighborOf andorra, andorra neighborOf france
+malta locatedIn europe, malta locatedIn southern_europe, southern_europe locatedIn europe
+romania neighborOf ukraine, romania neighborOf moldova, moldova neighborOf ukraine
+san_marino locatedIn europe, san_marino locatedIn southern_europe, southern_europe locatedIn europe
+mauritania locatedIn africa, mauritania locatedIn western_africa, western_africa locatedIn africa
+mauritania neighborOf algeria, mauritania neighborOf mali, mali neighborOf algeria
+trinidad_and_tobago locatedIn americas, trinidad_and_tobago locatedIn caribbean, caribbean locatedIn americas
+bahrain locatedIn asia, bahrain locatedIn western_asia, western_asia locatedIn asia
+myanmar neighborOf india, myanmar neighborOf china, china neighborOf india
+myanmar neighborOf china, myanmar neighborOf laos, laos neighborOf china
+myanmar neighborOf laos, myanmar neighborOf china, china neighborOf laos
+iraq neighborOf syria, iraq neighborOf jordan, jordan neighborOf syria
+south_georgia locatedIn americas, south_georgia locatedIn south_america, south_america locatedIn americas
+iceland locatedIn europe, iceland locatedIn northern_europe, northern_europe locatedIn europe
+dr_congo locatedIn middle_africa, dr_congo neighborOf republic_of_the_congo, republic_of_the_congo neighborOf central_african_republic, central_african_republic neighborOf chad, chad neighborOf cameroon, cameroon neighborOf gabon, gabon neighborOf equatorial_guinea, equatorial_guinea locatedIn middle_africa
+seychelles locatedIn africa, seychelles locatedIn eastern_africa, eastern_africa locatedIn africa
+kyrgyzstan neighborOf china, kyrgyzstan neighborOf uzbekistan, uzbekistan neighborOf afghanistan, afghanistan neighborOf china
+kyrgyzstan neighborOf kazakhstan, kyrgyzstan neighborOf uzbekistan, uzbekistan neighborOf kazakhstan
+kyrgyzstan neighborOf uzbekistan, kyrgyzstan neighborOf kazakhstan, kazakhstan neighborOf uzbekistan
+botswana locatedIn southern_africa, botswana neighborOf namibia, namibia neighborOf zambia, zambia neighborOf mozambique, mozambique neighborOf south_africa, south_africa neighborOf lesotho, lesotho locatedIn southern_africa
+botswana neighborOf namibia, botswana neighborOf south_africa, south_africa neighborOf namibia
+botswana neighborOf zambia, botswana neighborOf namibia, namibia neighborOf zambia
+botswana neighborOf south_africa, botswana neighborOf namibia, namibia neighborOf south_africa
+faroe_islands locatedIn europe, faroe_islands locatedIn northern_europe, northern_europe locatedIn europe
+jamaica locatedIn americas, jamaica locatedIn caribbean, caribbean locatedIn americas
+american_samoa locatedIn oceania, american_samoa locatedIn polynesia, polynesia locatedIn oceania
+lesotho locatedIn southern_africa, lesotho neighborOf south_africa, south_africa neighborOf botswana, botswana neighborOf zambia, zambia neighborOf mozambique, mozambique neighborOf swaziland, swaziland locatedIn southern_africa
+lesotho locatedIn africa, lesotho locatedIn southern_africa, southern_africa locatedIn africa
+belgium neighborOf germany, belgium neighborOf netherlands, netherlands neighborOf germany
+qatar locatedIn western_asia, qatar neighborOf saudi_arabia, saudi_arabia neighborOf oman, oman neighborOf united_arab_emirates, united_arab_emirates locatedIn western_asia
+solomon_islands locatedIn oceania, solomon_islands locatedIn melanesia, melanesia locatedIn oceania
+syria neighborOf israel, syria neighborOf jordan, jordan neighborOf israel
+india neighborOf afghanistan, india neighborOf china, china neighborOf afghanistan
+india neighborOf china, india neighborOf nepal, nepal neighborOf china
+kenya locatedIn eastern_africa, kenya neighborOf ethiopia, ethiopia neighborOf eritrea, eritrea neighborOf djibouti, djibouti neighborOf somalia, somalia locatedIn eastern_africa
+kenya neighborOf somalia, kenya neighborOf south_sudan, south_sudan neighborOf sudan, sudan neighborOf eritrea, eritrea neighborOf ethiopia, ethiopia neighborOf djibouti, djibouti neighborOf somalia
+kenya neighborOf south_sudan, kenya neighborOf tanzania, tanzania neighborOf rwanda, rwanda neighborOf uganda, uganda neighborOf south_sudan
+south_sudan neighborOf dr_congo, south_sudan neighborOf central_african_republic, central_african_republic neighborOf dr_congo
+south_sudan neighborOf central_african_republic, south_sudan neighborOf sudan, sudan neighborOf central_african_republic
+south_sudan neighborOf sudan, south_sudan neighborOf central_african_republic, central_african_republic neighborOf sudan
+ghana neighborOf burkina_faso, ghana neighborOf togo, togo neighborOf burkina_faso
+tajikistan neighborOf china, tajikistan neighborOf afghanistan, afghanistan neighborOf china
+tajikistan neighborOf kyrgyzstan, tajikistan neighborOf uzbekistan, uzbekistan neighborOf kyrgyzstan
+tajikistan neighborOf afghanistan, tajikistan neighborOf china, china neighborOf afghanistan
+marshall_islands locatedIn oceania, marshall_islands locatedIn micronesia, micronesia locatedIn oceania
+cameroon neighborOf chad, cameroon neighborOf central_african_republic, central_african_republic neighborOf chad
+cameroon neighborOf central_african_republic, cameroon neighborOf republic_of_the_congo, republic_of_the_congo neighborOf central_african_republic
+nauru locatedIn oceania, nauru locatedIn micronesia, micronesia locatedIn oceania
+sudan neighborOf chad, sudan neighborOf south_sudan, south_sudan neighborOf central_african_republic, central_african_republic neighborOf chad
+sudan neighborOf south_sudan, sudan neighborOf eritrea, eritrea neighborOf ethiopia, ethiopia neighborOf kenya, kenya neighborOf tanzania, tanzania neighborOf uganda, uganda neighborOf rwanda, rwanda neighborOf burundi, burundi neighborOf dr_congo, dr_congo neighborOf central_african_republic, central_african_republic neighborOf republic_of_the_congo, republic_of_the_congo neighborOf cameroon, cameroon neighborOf nigeria, nigeria neighborOf niger, niger neighborOf chad, chad neighborOf south_sudan
+sudan neighborOf central_african_republic, sudan neighborOf south_sudan, south_sudan neighborOf central_african_republic
+chad locatedIn middle_africa, chad neighborOf central_african_republic, central_african_republic locatedIn middle_africa
+chad neighborOf south_sudan, chad neighborOf cameroon, cameroon neighborOf republic_of_the_congo, republic_of_the_congo neighborOf central_african_republic, central_african_republic neighborOf sudan, sudan neighborOf south_sudan
+chad neighborOf cameroon, chad neighborOf central_african_republic, central_african_republic neighborOf cameroon
+chad neighborOf central_african_republic, chad neighborOf cameroon, cameroon neighborOf central_african_republic
+chad neighborOf nigeria, chad neighborOf niger, niger neighborOf nigeria
+vanuatu locatedIn oceania, vanuatu locatedIn melanesia, melanesia locatedIn oceania
+cape_verde locatedIn africa, cape_verde locatedIn western_africa, western_africa locatedIn africa
+falkland_islands locatedIn americas, falkland_islands locatedIn south_america, south_america locatedIn americas
+liberia neighborOf guinea, liberia neighborOf sierra_leone, sierra_leone neighborOf guinea
+cambodia neighborOf laos, cambodia neighborOf vietnam, vietnam neighborOf laos
+zimbabwe neighborOf zambia, zimbabwe neighborOf mozambique, mozambique neighborOf zambia
+zimbabwe neighborOf south_africa, zimbabwe neighborOf zambia, zambia neighborOf namibia, namibia neighborOf south_africa
+zimbabwe neighborOf botswana, zimbabwe neighborOf zambia, zambia neighborOf botswana
+zimbabwe neighborOf mozambique, zimbabwe neighborOf zambia, zambia neighborOf mozambique
+comoros locatedIn africa, comoros locatedIn eastern_africa, eastern_africa locatedIn africa
+guam locatedIn oceania, guam locatedIn micronesia, micronesia locatedIn oceania
+bahamas locatedIn americas, bahamas locatedIn caribbean, caribbean locatedIn americas
+lebanon neighborOf israel, lebanon neighborOf syria, syria neighborOf israel
+lebanon neighborOf syria, lebanon neighborOf israel, israel neighborOf syria
+sint_maarten locatedIn americas, sint_maarten locatedIn caribbean, caribbean locatedIn americas
+ethiopia locatedIn eastern_africa, ethiopia neighborOf eritrea, eritrea neighborOf djibouti, djibouti neighborOf somalia, somalia neighborOf kenya, kenya neighborOf tanzania, tanzania neighborOf uganda, uganda neighborOf rwanda, rwanda neighborOf burundi, burundi locatedIn eastern_africa
+ethiopia neighborOf somalia, ethiopia neighborOf eritrea, eritrea neighborOf djibouti, djibouti neighborOf somalia
+ethiopia neighborOf kenya, ethiopia neighborOf eritrea, eritrea neighborOf djibouti, djibouti neighborOf somalia, somalia neighborOf kenya
+ethiopia neighborOf south_sudan, ethiopia neighborOf sudan, sudan neighborOf south_sudan
+ethiopia neighborOf djibouti, ethiopia neighborOf eritrea, eritrea neighborOf djibouti
+ethiopia neighborOf sudan, ethiopia neighborOf south_sudan, south_sudan neighborOf sudan
+united_states_virgin_islands locatedIn americas, united_states_virgin_islands locatedIn caribbean, caribbean locatedIn americas
+guinea-bissau locatedIn africa, guinea-bissau locatedIn western_africa, western_africa locatedIn africa
+guinea-bissau neighborOf senegal, guinea-bissau neighborOf guinea, guinea neighborOf senegal
+libya neighborOf niger, libya neighborOf tunisia, tunisia neighborOf algeria, algeria neighborOf niger
+bhutan locatedIn asia, bhutan locatedIn southern_asia, southern_asia locatedIn asia
+bhutan neighborOf china, bhutan neighborOf india, india neighborOf china
+bhutan neighborOf india, bhutan neighborOf china, china neighborOf india
+macau locatedIn asia, macau locatedIn eastern_asia, eastern_asia locatedIn asia
+french_polynesia locatedIn oceania, french_polynesia locatedIn polynesia, polynesia locatedIn oceania
+somalia neighborOf djibouti, somalia neighborOf kenya, kenya neighborOf ethiopia, ethiopia neighborOf djibouti
+somalia neighborOf kenya, somalia neighborOf ethiopia, ethiopia neighborOf kenya
+somalia neighborOf ethiopia, somalia neighborOf kenya, kenya neighborOf ethiopia
+saint_barthélemy locatedIn americas, saint_barthélemy locatedIn caribbean, caribbean locatedIn americas
+russia neighborOf ukraine, russia neighborOf poland, poland neighborOf ukraine
+russia neighborOf belarus, russia neighborOf ukraine, ukraine neighborOf belarus
+russia neighborOf lithuania, russia neighborOf latvia, latvia neighborOf lithuania
+new_zealand locatedIn oceania, new_zealand locatedIn australia_and_new_zealand, australia_and_new_zealand locatedIn oceania
+panama locatedIn americas, panama locatedIn central_america, central_america locatedIn americas
+latvia neighborOf lithuania, latvia neighborOf estonia, estonia neighborOf russia, russia neighborOf lithuania
+latvia neighborOf belarus, latvia neighborOf lithuania, lithuania neighborOf belarus
+latvia neighborOf russia, latvia neighborOf lithuania, lithuania neighborOf russia
+oman locatedIn western_asia, oman neighborOf united_arab_emirates, united_arab_emirates neighborOf saudi_arabia, saudi_arabia neighborOf qatar, qatar locatedIn western_asia
+oman neighborOf saudi_arabia, oman neighborOf united_arab_emirates, united_arab_emirates neighborOf saudi_arabia
+oman neighborOf yemen, oman neighborOf united_arab_emirates, united_arab_emirates neighborOf saudi_arabia, saudi_arabia neighborOf yemen
+oman neighborOf united_arab_emirates, oman neighborOf saudi_arabia, saudi_arabia neighborOf united_arab_emirates
+saint_pierre_and_miquelon locatedIn americas, saint_pierre_and_miquelon locatedIn northern_america, northern_america locatedIn americas
+martinique locatedIn americas, martinique locatedIn caribbean, caribbean locatedIn americas
+united_kingdom locatedIn europe, united_kingdom locatedIn northern_europe, northern_europe locatedIn europe
+jersey locatedIn europe, jersey locatedIn northern_europe, northern_europe locatedIn europe
+pitcairn_islands locatedIn oceania, pitcairn_islands locatedIn polynesia, polynesia locatedIn oceania
+togo locatedIn western_africa, togo neighborOf ghana, ghana neighborOf ivory_coast, ivory_coast locatedIn western_africa
+togo neighborOf ghana, togo neighborOf benin, benin neighborOf nigeria, nigeria neighborOf niger, niger neighborOf mali, mali neighborOf guinea, guinea neighborOf sierra_leone, sierra_leone neighborOf liberia, liberia neighborOf ivory_coast, ivory_coast neighborOf burkina_faso, burkina_faso neighborOf ghana
+kiribati locatedIn oceania, kiribati locatedIn micronesia, micronesia locatedIn oceania
+saint_martin locatedIn americas, saint_martin locatedIn caribbean, caribbean locatedIn americas
+dominican_republic locatedIn americas, dominican_republic locatedIn caribbean, caribbean locatedIn americas
+bermuda locatedIn americas, bermuda locatedIn northern_america, northern_america locatedIn americas
+kosovo neighborOf serbia, kosovo neighborOf macedonia, macedonia neighborOf serbia
+kosovo neighborOf macedonia, kosovo neighborOf serbia, serbia neighborOf bulgaria, bulgaria neighborOf greece, greece neighborOf macedonia
+saint_kitts_and_nevis locatedIn americas, saint_kitts_and_nevis locatedIn caribbean, caribbean locatedIn americas
+eritrea neighborOf djibouti, eritrea neighborOf ethiopia, ethiopia neighborOf kenya, kenya neighborOf somalia, somalia neighborOf djibouti
+eritrea neighborOf sudan, eritrea neighborOf djibouti, djibouti neighborOf somalia, somalia neighborOf kenya, kenya neighborOf ethiopia, ethiopia neighborOf sudan
+eritrea neighborOf ethiopia, eritrea neighborOf djibouti, djibouti neighborOf ethiopia
+equatorial_guinea locatedIn africa, equatorial_guinea locatedIn middle_africa, middle_africa locatedIn africa
+equatorial_guinea neighborOf gabon, equatorial_guinea neighborOf cameroon, cameroon neighborOf gabon
+equatorial_guinea neighborOf cameroon, equatorial_guinea neighborOf gabon, gabon neighborOf cameroon
+niger neighborOf chad, niger neighborOf nigeria, nigeria neighborOf chad
+niger neighborOf libya, niger neighborOf burkina_faso, burkina_faso neighborOf benin, benin neighborOf nigeria, nigeria neighborOf cameroon, cameroon neighborOf gabon, gabon neighborOf republic_of_the_congo, republic_of_the_congo neighborOf central_african_republic, central_african_republic neighborOf chad, chad neighborOf libya
+niger neighborOf algeria, niger neighborOf nigeria, nigeria neighborOf benin, benin neighborOf togo, togo neighborOf ghana, ghana neighborOf ivory_coast, ivory_coast neighborOf mali, mali neighborOf mauritania, mauritania neighborOf western_sahara, western_sahara neighborOf morocco, morocco neighborOf algeria
+anguilla locatedIn americas, anguilla locatedIn caribbean, caribbean locatedIn americas
+rwanda locatedIn eastern_africa, rwanda neighborOf uganda, uganda neighborOf kenya, kenya neighborOf ethiopia, ethiopia neighborOf eritrea, eritrea neighborOf djibouti, djibouti neighborOf somalia, somalia locatedIn eastern_africa
+rwanda neighborOf tanzania, rwanda neighborOf uganda, uganda neighborOf tanzania
+rwanda neighborOf uganda, rwanda neighborOf tanzania, tanzania neighborOf uganda
+rwanda neighborOf dr_congo, rwanda neighborOf uganda, uganda neighborOf dr_congo
+united_arab_emirates neighborOf oman, united_arab_emirates neighborOf saudi_arabia, saudi_arabia neighborOf oman
+united_arab_emirates neighborOf saudi_arabia, united_arab_emirates neighborOf oman, oman neighborOf saudi_arabia
+estonia locatedIn europe, estonia locatedIn northern_europe, northern_europe locatedIn europe
+estonia neighborOf latvia, estonia neighborOf russia, russia neighborOf latvia
+estonia neighborOf russia, estonia neighborOf latvia, latvia neighborOf russia
+greece neighborOf macedonia, greece neighborOf albania, albania neighborOf macedonia
+greece neighborOf turkey, greece neighborOf bulgaria, bulgaria neighborOf turkey
+senegal locatedIn africa, senegal locatedIn western_africa, western_africa locatedIn africa
+senegal neighborOf guinea-bissau, senegal neighborOf guinea, guinea neighborOf guinea-bissau
+senegal neighborOf mauritania, senegal neighborOf mali, mali neighborOf mauritania
+senegal neighborOf mali, senegal neighborOf mauritania, mauritania neighborOf mali
+senegal neighborOf guinea, senegal neighborOf guinea-bissau, guinea-bissau neighborOf guinea
+guadeloupe locatedIn americas, guadeloupe locatedIn caribbean, caribbean locatedIn americas
+djibouti neighborOf eritrea, djibouti neighborOf ethiopia, ethiopia neighborOf eritrea
+djibouti neighborOf ethiopia, djibouti neighborOf eritrea, eritrea neighborOf ethiopia
+british_virgin_islands locatedIn americas, british_virgin_islands locatedIn caribbean, caribbean locatedIn americas
+cook_islands locatedIn oceania, cook_islands locatedIn polynesia, polynesia locatedIn oceania
+uganda neighborOf tanzania, uganda neighborOf rwanda, rwanda neighborOf tanzania
+uganda neighborOf rwanda, uganda neighborOf tanzania, tanzania neighborOf rwanda
+macedonia neighborOf kosovo, macedonia neighborOf serbia, serbia neighborOf kosovo
+macedonia neighborOf greece, macedonia neighborOf bulgaria, bulgaria neighborOf greece
+macedonia neighborOf serbia, macedonia neighborOf greece, greece neighborOf albania, albania neighborOf kosovo, kosovo neighborOf serbia
+macedonia neighborOf bulgaria, macedonia neighborOf albania, albania neighborOf greece, greece neighborOf turkey, turkey neighborOf bulgaria
+tunisia locatedIn africa, tunisia locatedIn northern_africa, northern_africa locatedIn africa
+tunisia neighborOf algeria, tunisia neighborOf libya, libya neighborOf algeria
+ecuador neighborOf colombia, ecuador neighborOf peru, peru neighborOf colombia
+brazil neighborOf colombia, brazil neighborOf venezuela, venezuela neighborOf colombia
+brazil neighborOf uruguay, brazil neighborOf suriname, suriname neighborOf guyana, guyana neighborOf venezuela, venezuela neighborOf colombia, colombia neighborOf peru, peru neighborOf chile, chile neighborOf argentina, argentina neighborOf uruguay
+brazil neighborOf french_guiana, brazil neighborOf suriname, suriname neighborOf french_guiana
+brazil neighborOf argentina, brazil neighborOf uruguay, uruguay neighborOf argentina
+brazil neighborOf guyana, brazil neighborOf suriname, suriname neighborOf guyana
+paraguay locatedIn americas, paraguay locatedIn south_america, south_america locatedIn americas
+paraguay neighborOf argentina, paraguay neighborOf bolivia, bolivia neighborOf argentina
+paraguay neighborOf brazil, paraguay neighborOf argentina, argentina neighborOf brazil
+paraguay neighborOf bolivia, paraguay neighborOf argentina, argentina neighborOf brazil, brazil neighborOf colombia, colombia neighborOf peru, peru neighborOf chile, chile neighborOf bolivia
+finland neighborOf norway, finland neighborOf sweden, sweden neighborOf norway
+finland neighborOf russia, finland neighborOf norway, norway neighborOf russia
+jordan neighborOf iraq, jordan neighborOf saudi_arabia, saudi_arabia neighborOf iraq
+montenegro neighborOf kosovo, montenegro neighborOf bosnia_and_herzegovina, bosnia_and_herzegovina neighborOf serbia, serbia neighborOf bulgaria, bulgaria neighborOf greece, greece neighborOf macedonia, macedonia neighborOf kosovo
+montenegro neighborOf bosnia_and_herzegovina, montenegro neighborOf kosovo, kosovo neighborOf macedonia, macedonia neighborOf serbia, serbia neighborOf croatia, croatia neighborOf bosnia_and_herzegovina
+montenegro neighborOf croatia, montenegro neighborOf serbia, serbia neighborOf croatia
+montenegro neighborOf serbia, montenegro neighborOf croatia, croatia neighborOf serbia
+montserrat locatedIn americas, montserrat locatedIn caribbean, caribbean locatedIn americas
+ukraine neighborOf slovakia, ukraine neighborOf russia, russia neighborOf lithuania, lithuania neighborOf latvia, latvia neighborOf belarus, belarus neighborOf poland, poland neighborOf germany, germany neighborOf switzerland, switzerland neighborOf liechtenstein, liechtenstein neighborOf austria, austria neighborOf czechia, czechia neighborOf slovakia
+ukraine neighborOf belarus, ukraine neighborOf russia, russia neighborOf belarus
+ukraine neighborOf poland, ukraine neighborOf russia, russia neighborOf poland
+ukraine neighborOf russia, ukraine neighborOf poland, poland neighborOf russia
+dominica locatedIn americas, dominica locatedIn caribbean, caribbean locatedIn americas
+turkmenistan neighborOf afghanistan, turkmenistan neighborOf uzbekistan, uzbekistan neighborOf afghanistan
+turkmenistan neighborOf uzbekistan, turkmenistan neighborOf kazakhstan, kazakhstan neighborOf uzbekistan
+guernsey locatedIn europe, guernsey locatedIn northern_europe, northern_europe locatedIn europe
+austria neighborOf germany, austria neighborOf liechtenstein, liechtenstein neighborOf switzerland, switzerland neighborOf italy, italy neighborOf france, france neighborOf germany
+austria neighborOf slovakia, austria neighborOf czechia, czechia neighborOf slovakia
+austria neighborOf switzerland, austria neighborOf liechtenstein, liechtenstein neighborOf switzerland
+austria neighborOf liechtenstein, austria neighborOf germany, germany neighborOf switzerland, switzerland neighborOf liechtenstein
+austria neighborOf czechia, austria neighborOf slovakia, slovakia neighborOf czechia
+hungary neighborOf slovakia, hungary neighborOf ukraine, ukraine neighborOf slovakia
+hungary neighborOf slovenia, hungary neighborOf slovakia, slovakia neighborOf austria, austria neighborOf slovenia
+hungary neighborOf serbia, hungary neighborOf slovenia, slovenia neighborOf croatia, croatia neighborOf serbia
+malawi neighborOf zambia, malawi neighborOf mozambique, mozambique neighborOf zambia
+malawi neighborOf tanzania, malawi neighborOf zambia, zambia neighborOf tanzania
+malawi neighborOf mozambique, malawi neighborOf zambia, zambia neighborOf mozambique
+liechtenstein locatedIn europe, liechtenstein locatedIn western_europe, western_europe locatedIn europe
+liechtenstein neighborOf austria, liechtenstein neighborOf switzerland, switzerland neighborOf austria
+barbados locatedIn americas, barbados locatedIn caribbean, caribbean locatedIn americas
+georgia neighborOf azerbaijan, georgia neighborOf russia, russia neighborOf azerbaijan
+georgia neighborOf russia, georgia neighborOf azerbaijan, azerbaijan neighborOf russia
+georgia neighborOf turkey, georgia neighborOf azerbaijan, azerbaijan neighborOf turkey
+albania locatedIn europe, albania locatedIn southern_europe, southern_europe locatedIn europe
+albania neighborOf greece, albania neighborOf macedonia, macedonia neighborOf greece
+kuwait locatedIn western_asia, kuwait neighborOf saudi_arabia, saudi_arabia neighborOf oman, oman neighborOf united_arab_emirates, united_arab_emirates locatedIn western_asia
+south_africa locatedIn southern_africa, south_africa neighborOf namibia, namibia neighborOf botswana, botswana neighborOf zambia, zambia neighborOf mozambique, mozambique neighborOf swaziland, swaziland locatedIn southern_africa
+south_africa neighborOf mozambique, south_africa neighborOf swaziland, swaziland neighborOf mozambique
+haiti locatedIn americas, haiti locatedIn caribbean, caribbean locatedIn americas
+afghanistan neighborOf turkmenistan, afghanistan neighborOf uzbekistan, uzbekistan neighborOf turkmenistan
+afghanistan neighborOf china, afghanistan neighborOf tajikistan, tajikistan neighborOf china
+singapore locatedIn asia, singapore locatedIn south-eastern_asia, south-eastern_asia locatedIn asia
+benin neighborOf niger, benin neighborOf nigeria, nigeria neighborOf niger
+benin neighborOf burkina_faso, benin neighborOf togo, togo neighborOf burkina_faso
+benin neighborOf togo, benin neighborOf burkina_faso, burkina_faso neighborOf togo
+benin neighborOf nigeria, benin neighborOf niger, niger neighborOf nigeria
+åland_islands locatedIn europe, åland_islands locatedIn northern_europe, northern_europe locatedIn europe
+croatia neighborOf bosnia_and_herzegovina, croatia neighborOf serbia, serbia neighborOf bosnia_and_herzegovina
+croatia neighborOf serbia, croatia neighborOf bosnia_and_herzegovina, bosnia_and_herzegovina neighborOf serbia
+sweden neighborOf norway, sweden neighborOf finland, finland neighborOf norway
+greenland locatedIn americas, greenland locatedIn northern_america, northern_america locatedIn americas
+norfolk_island locatedIn oceania, norfolk_island locatedIn australia_and_new_zealand, australia_and_new_zealand locatedIn oceania
+nepal locatedIn asia, nepal locatedIn southern_asia, southern_asia locatedIn asia
+nepal neighborOf china, nepal neighborOf india, india neighborOf china
+nepal neighborOf india, nepal neighborOf china, china neighborOf india
+moldova locatedIn europe, moldova locatedIn eastern_europe, eastern_europe locatedIn europe
+moldova neighborOf ukraine, moldova neighborOf romania, romania neighborOf ukraine
+mauritius locatedIn africa, mauritius locatedIn eastern_africa, eastern_africa locatedIn africa
+belarus neighborOf ukraine, belarus neighborOf poland, poland neighborOf ukraine
+belarus neighborOf poland, belarus neighborOf ukraine, ukraine neighborOf poland
+belarus neighborOf russia, belarus neighborOf ukraine, ukraine neighborOf russia
+bangladesh neighborOf myanmar, bangladesh neighborOf india, india neighborOf myanmar
+bangladesh neighborOf india, bangladesh neighborOf myanmar, myanmar neighborOf india
+bosnia_and_herzegovina neighborOf croatia, bosnia_and_herzegovina neighborOf serbia, serbia neighborOf croatia
+luxembourg neighborOf germany, luxembourg neighborOf belgium, belgium neighborOf germany
+luxembourg neighborOf france, luxembourg neighborOf belgium, belgium neighborOf france
+italy locatedIn europe, italy locatedIn southern_europe, southern_europe locatedIn europe
+azerbaijan neighborOf turkey, azerbaijan neighborOf georgia, georgia neighborOf turkey
+azerbaijan neighborOf russia, azerbaijan neighborOf georgia, georgia neighborOf russia
+azerbaijan neighborOf georgia, azerbaijan neighborOf russia, russia neighborOf georgia
+mali neighborOf guinea, mali neighborOf mauritania, mauritania neighborOf senegal, senegal neighborOf guinea
+mali neighborOf algeria, mali neighborOf mauritania, mauritania neighborOf algeria
+taiwan locatedIn asia, taiwan locatedIn eastern_asia, eastern_asia locatedIn asia
+algeria neighborOf mauritania, algeria neighborOf mali, mali neighborOf mauritania
+algeria neighborOf niger, algeria neighborOf mali, mali neighborOf niger
+algeria neighborOf mali, algeria neighborOf mauritania, mauritania neighborOf mali
+french_guiana neighborOf brazil, french_guiana neighborOf suriname, suriname neighborOf brazil
+french_guiana neighborOf suriname, french_guiana neighborOf brazil, brazil neighborOf suriname
+yemen locatedIn western_asia, yemen neighborOf saudi_arabia, saudi_arabia neighborOf oman, oman neighborOf united_arab_emirates, united_arab_emirates locatedIn western_asia
+yemen neighborOf oman, yemen neighborOf saudi_arabia, saudi_arabia neighborOf oman
+yemen neighborOf saudi_arabia, yemen neighborOf oman, oman neighborOf saudi_arabia
+puerto_rico locatedIn americas, puerto_rico locatedIn caribbean, caribbean locatedIn americas
+saint_vincent_and_the_grenadines locatedIn americas, saint_vincent_and_the_grenadines locatedIn caribbean, caribbean locatedIn americas
+venezuela neighborOf brazil, venezuela neighborOf colombia, colombia neighborOf brazil
+venezuela neighborOf guyana, venezuela neighborOf colombia, colombia neighborOf peru, peru neighborOf chile, chile neighborOf bolivia, bolivia neighborOf brazil, brazil neighborOf french_guiana, french_guiana neighborOf suriname, suriname neighborOf guyana
+venezuela neighborOf colombia, venezuela neighborOf guyana, guyana neighborOf suriname, suriname neighborOf brazil, brazil neighborOf colombia
+grenada locatedIn americas, grenada locatedIn caribbean, caribbean locatedIn americas
+tokelau locatedIn oceania, tokelau locatedIn polynesia, polynesia locatedIn oceania
+slovenia locatedIn southern_europe, slovenia neighborOf italy, italy neighborOf vatican_city, vatican_city locatedIn southern_europe
+slovenia neighborOf hungary, slovenia neighborOf austria, austria neighborOf hungary
+philippines locatedIn asia, philippines locatedIn south-eastern_asia, south-eastern_asia locatedIn asia
+china neighborOf kazakhstan, china neighborOf kyrgyzstan, kyrgyzstan neighborOf kazakhstan
+china neighborOf kyrgyzstan, china neighborOf russia, russia neighborOf kazakhstan, kazakhstan neighborOf uzbekistan, uzbekistan neighborOf kyrgyzstan
+china neighborOf russia, china neighborOf kyrgyzstan, kyrgyzstan neighborOf uzbekistan, uzbekistan neighborOf kazakhstan, kazakhstan neighborOf russia
+china neighborOf myanmar, china neighborOf vietnam, vietnam neighborOf cambodia, cambodia neighborOf laos, laos neighborOf myanmar
+gabon neighborOf equatorial_guinea, gabon neighborOf republic_of_the_congo, republic_of_the_congo neighborOf central_african_republic, central_african_republic neighborOf chad, chad neighborOf cameroon, cameroon neighborOf equatorial_guinea
+gabon neighborOf cameroon, gabon neighborOf republic_of_the_congo, republic_of_the_congo neighborOf central_african_republic, central_african_republic neighborOf chad, chad neighborOf cameroon
+united_states_minor_outlying_islands locatedIn americas, united_states_minor_outlying_islands locatedIn northern_america, northern_america locatedIn americas
+andorra neighborOf france, andorra neighborOf spain, spain neighborOf france
+samoa locatedIn oceania, samoa locatedIn polynesia, polynesia locatedIn oceania
+gambia locatedIn africa, gambia locatedIn western_africa, western_africa locatedIn africa
+palestine locatedIn asia, palestine locatedIn western_asia, western_asia locatedIn asia
+palestine neighborOf jordan, palestine neighborOf israel, israel neighborOf jordan
+palestine neighborOf egypt, palestine neighborOf israel, israel neighborOf egypt
+palestine neighborOf israel, palestine neighborOf egypt, egypt neighborOf israel
+réunion locatedIn africa, réunion locatedIn eastern_africa, eastern_africa locatedIn africa
+france neighborOf germany, france neighborOf belgium, belgium neighborOf germany
+france neighborOf andorra, france neighborOf spain, spain neighborOf andorra
+france neighborOf spain, france neighborOf andorra, andorra neighborOf spain
+mongolia locatedIn asia, mongolia locatedIn eastern_asia, eastern_asia locatedIn asia
+mongolia neighborOf china, mongolia neighborOf russia, russia neighborOf china
+mongolia neighborOf russia, mongolia neighborOf china, china neighborOf russia
+lithuania neighborOf latvia, lithuania neighborOf russia, russia neighborOf latvia
+lithuania neighborOf belarus, lithuania neighborOf russia, russia neighborOf belarus
+lithuania neighborOf russia, lithuania neighborOf poland, poland neighborOf russia
+cayman_islands locatedIn americas, cayman_islands locatedIn caribbean, caribbean locatedIn americas
+saint_lucia locatedIn americas, saint_lucia locatedIn caribbean, caribbean locatedIn americas
+curaçao locatedIn americas, curaçao locatedIn caribbean, caribbean locatedIn americas
