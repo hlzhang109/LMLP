@@ -11,27 +11,27 @@ This is the official demo code for our [The Impact of Symbolic Representations o
 
 The dataset structure of CLUTRR-LP:
 
-- src/clutrr/example_all.json: The logic rules.
-- src/clutrr/example_test.json: The query
-- src/clutrr/rules_all.json: The facts
+- data/clutrr/example_all.json: The logic rules.
+- data/clutrr/example_test.json: The query
+- data/clutrr/rules_all.json: The facts
 
 The dataset structure of Countries-LP, task Si:
 
-- src/countries/avaliable_examples_ri.json: The logic rules.
-- src/countries/test_samples.json: The query
-- src/countries/avaliable_rules_ri.json: The facts
+- data/countries/avaliable_examples_ri.json: The logic rules.
+- data/countries/test_samples.json: The query
+- data/countries/avaliable_rules_ri.json: The facts
 
 Run experiment of LMLP for the Countries-LP:
 
-```Python countries.py (The logic rules and facts are set in the code)```
+```Python src/countries.py (The logic rules and facts are set in the code)```
 
 Run experiment of LMLP for the CLUTRR-LP:
 
-```Python clutrr.py --num_rule 1 --rule_path [The facts path] --example_path [The logic rules] --test_path [The query]```
+```Python src/clutrr.py --num_rule 1 --rule_path [The facts path] --example_path [The logic rules] --test_path [The query]```
 
 Run experiment of CoT for the CLUTRR-LP:
 
-```Python clutrr_cot.py```
+```Python src/clutrr_cot.py```
 
 
 If you find this work helpful for your research, please consider citing:
